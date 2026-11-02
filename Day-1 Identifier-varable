@@ -1,0 +1,24 @@
+# import keyword
+# a=keyword.kwlist
+# print(a)
+# print(len(a))
+
+# if=3:
+#     print(if)
+
+# import builtins
+# print(dir(builtins))
+# len=4
+# print(len)
+# print(len("FDE"))
+import keyword
+print(keyword.iskeyword("if"))
+print(keyword.iskeyword("hello"))
+
+
+
+
+
+
+
+
